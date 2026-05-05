@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "565771310362",
+    "project_id": "antigravity-app-7050e",
+    "storage_bucket": "antigravity-app-7050e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565771310362:android:2c68fd44d613115b6488a3",
+        "android_client_info": {
+          "package_name": "com.example.sakshmseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565771310362-47s1h46kmaqv1calg8kiilric3draj74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakshmseva",
+            "certificate_hash": "a1eee19c3312a632f8d4787034d64269e65850dd"
+          }
+        },
+        {
+          "client_id": "565771310362-5u013t735h12mjntlcf28sv8gbjbt97o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfKKRdVoibAWdrpI6qtO5lo0dNgzw1GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565771310362-5u013t735h12mjntlcf28sv8gbjbt97o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565771310362-0n6b1hlc799u3ubdh2u1lukon2i1f0vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gov.gujarat.sakshmseva"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565771310362:android:c9e185866080b11f6488a3",
+        "android_client_info": {
+          "package_name": "gov.gujarat.sakshmseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565771310362-5u013t735h12mjntlcf28sv8gbjbt97o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfKKRdVoibAWdrpI6qtO5lo0dNgzw1GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565771310362-5u013t735h12mjntlcf28sv8gbjbt97o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565771310362-0n6b1hlc799u3ubdh2u1lukon2i1f0vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gov.gujarat.sakshmseva"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
